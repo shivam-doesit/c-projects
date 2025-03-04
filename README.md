@@ -1,2 +1,2 @@
-# c-projects
+# c++ projects
 these are my learnings
